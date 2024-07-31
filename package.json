@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.16.1",
+    "cookie-parser": "^1.4.6",
+    "jsonwebtoken": "^9.0.2",
+    "prisma": "^5.16.1"
+  },
+  "name": "estate-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
